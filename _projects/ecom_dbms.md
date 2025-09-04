@@ -1,11 +1,11 @@
 ---
 layout: page
-title: TISD-LLM
-description: Target Invariant Stance Detection Using Large Language Models
-img: assets/img/7.jpg
-redirect: https://github.com/mezbaur-rahman/sd-llm
+title: Ecom Web
+description: Ecommerce Website, Fall'24 CS480 Database Systems Project
+img: assets/img/project3.jpg
+redirect: https://github.com/mehrab-mustafy/CS480_Project
 importance: 3
-category: work
+category: display
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: TISD-LLM
-description: Target Invariant Stance Detection Using Large Language Models
-img: assets/img/7.jpg
-redirect: https://github.com/mezbaur-rahman/sd-llm
-importance: 3
-category: work
+title: Node-SSL
+description: Node Classification in Semi-Supervised Setting with LLM Enhanced Embeddings
+img: assets/img/project2.jpg
+redirect: https://github.com/mezbaur-rahman/SSL_LLM_Node_Classification
+importance: 2
+category: display
 ---
 
 Every project has a beautiful feature showcase page.

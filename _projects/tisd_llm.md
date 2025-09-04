@@ -1,11 +1,11 @@
 ---
 layout: page
-title: TISD-LLM
+title: SD-LLM
 description: Target Invariant Stance Detection Using Large Language Models
-img: assets/img/7.jpg
+img: assets/img/project1.jpg
 redirect: https://github.com/mezbaur-rahman/sd-llm
-importance: 3
-category: work
+importance: 1
+category: display
 ---
 
 Every project has a beautiful feature showcase page.

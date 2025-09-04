@@ -6,7 +6,7 @@ subtitle: CS PhD Student @ <a href="https://www.uic.edu/" target="_blank">Univer
 
 profile:
   align: right
-  image: prof_pic_chicago.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>

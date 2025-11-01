@@ -403,7 +403,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/code-gen-shared-task/";
-            },},{id: "news-our-paper-llm-guided-co-training-for-text-classification-was-accepted-at-emnlp-2025-main-arxiv",
+            },},{id: "news-our-paper-llm-guided-co-training-for-text-classification-was-accepted-at-emnlp-2025-main-paper",
           title: '🎉 Our paper “LLM Guided Co-Training for Text Classification” was accepted at EMNLP...',
           description: "",
           section: "News",},{id: "news-our-paper-semantic-label-drift-in-cross-cultural-translation-has-been-submitted-to-lrec-2026-read-the-preprint-on-arxiv",

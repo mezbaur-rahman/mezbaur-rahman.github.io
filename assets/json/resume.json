@@ -121,6 +121,20 @@
     ],
     "publications": [
       {
+        "name": "LLM-Guided Co-Training for Text Classification",
+        "publisher": "EMNLP 2025 (Main Conference)",
+        "releaseDate": "2025-11",
+        "url": "https://aclanthology.org/2025.emnlp-main.1583/",
+        "summary": "This paper introduces a novel weighted co-training framework guided by Large Language Models (LLMs), where two encoder-only networks iteratively train each other using dynamically assigned sample weights based on confidence in LLM-generated pseudo-labels. The proposed method achieves state-of-the-art results on 4 out of 5 benchmark datasets and ranks first among 14 semi-supervised learning methods via Friedman test, demonstrating that LLMs can serve as effective knowledge amplifiers in semi-supervised text classification.",
+      },
+      {
+        "name": "Semantic Label Drift in Cross-Cultural Translation",
+        "publisher": "arXiv preprint (submitted to LREC 2026)",
+        "releaseDate": "2025-10",
+        "url": "https://www.arxiv.org/pdf/2510.25967",
+        "summary": "This work investigates semantic label drift that occurs during translation across culturally diverse languages. The study highlights how linguistic and cultural nuances can shift label meanings and proposes an alignment-aware evaluation framework to mitigate cross-cultural label inconsistencies.",
+      },
+      {
         "name": "Multihop Factual Claim Verification Using Natural Language Prompts",
         "publisher": "CanAI 2023",
         "releaseDate": "2023-06",

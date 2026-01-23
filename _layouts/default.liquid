@@ -11,6 +11,13 @@
         {% assign redirect = page.redirect | relative_url %}
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
+    {% elsif page.cv_open_pdf_directly and page.cv_pdf %}
+      {% if page.cv_pdf contains '://' %}
+        {% assign redirect = page.cv_pdf %}
+      {% else %}
+        {% assign redirect = page.cv_pdf | prepend: 'assets/pdf/' | relative_url %}
+      {% endif %}
+      <meta http-equiv="refresh" content="0; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
   </head>

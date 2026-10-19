@@ -398,11 +398,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-organizing-the-bengali-code-generation-shared-task-blp-ijcnlp-aacl-2025",
-          title: 'Organizing the Bengali Code Generation Shared Task (BLP @ IJCNLP-AACL 2025)',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/code-gen-shared-task/";
             },},{id: "news-our-paper-llm-guided-co-training-for-text-classification-was-accepted-at-emnlp-2025-main-paper",
           title: '🎉 Our paper “LLM Guided Co-Training for Text Classification” was accepted at EMNLP...',
           description: "",

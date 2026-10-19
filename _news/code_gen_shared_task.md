@@ -3,6 +3,7 @@ layout: post
 title: "Organizing the Bengali Code Generation Shared Task (BLP @ IJCNLP-AACL 2025)"
 date: 2025-08-10
 permalink: /news/code-gen-shared-task/
+published: false
 # no `inline:` here → home page shows only the title
 ---
 
